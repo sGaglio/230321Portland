@@ -9,19 +9,16 @@ const categories = [
     filter: 'tue',
   },
   {
-    name: 'Portrait',
-    filter: 'portrait',
+    name: 'Wed',
+    filter: 'wed',
   },
   {
-    name: 'Wedding',
+    name: 'None',
     filter: 'wedding',
   },
   {
-    name: 'Drone',
+    name: 'None',
     filter: 'drone',
   },
-  {
-    name: 'Birds',
-    filter: 'birds',
-  },    
+  
 ];
