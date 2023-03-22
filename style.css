@@ -35,8 +35,8 @@
   .filter-element {
     background-color: #1f4287;
     color: white;
-    padding: 12px 24px;
-    border-radius: 20px;
+    padding: 3px 6px;
+    border-radius: 10px;
     margin: 6px;
     cursor: pointer;
   }
@@ -67,6 +67,6 @@
   
   @media (max-width: 920px) {
     #gallery-container {
-      column-count: 1;
+      column-count: 3;
     }
   }
