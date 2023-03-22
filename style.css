@@ -6,14 +6,14 @@
 * {
     margin: 0;
     padding: 0;
-  }
+}
   
-  body {
+body {
     background-color: #071e3d;
     font-family: 'Roboto', sans-serif;
-  }
+}
   
-  .title {
+.title {
     background-color: #1f4287;
     color: white;
     padding: 12px;
@@ -22,51 +22,58 @@
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     font-style: italic;
-  }
+}
   
-  #filter-container {
+#filter-container {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     padding: 12px;
-  }
+}
   
-  .filter-element {
+.filter-element {
     background-color: #1f4287;
     color: white;
     padding: 3px 6px;
     border-radius: 10px;
     margin: 6px;
     cursor: pointer;
-  }
+}
   
-  .filter-element:hover {
+.filter-element:hover {
     background-color: #278ea5aa;
-  }
+}
   
-  .filter-active {
+.filter-active {
     background-color: #278ea5;
-  }
+}
   
-  #gallery-container {
+#gallery-container {
     width: 90%;
     margin: 0 auto;
     column-count: 3;
     column-gap: 0.5rem;
-  }
+}
   
-  .gallery-image {
+.gallery-image {
     width: 100%;
     margin-bottom: 0.5rem;
-  }
+}
   
-  .gallery-image.hide-image {
+.gallery-image.hide-image {
     display: none;
-  }
+}
   
-  @media (max-width: 920px) {
+@media (max-width: 920px) {
     #gallery-container {
       column-count: 3;
-    }
-  }
+    }  
+}
+
+/* styles for cell phones */
+@media (max-width: 480px) {
+  #gallery-container {
+    column-count: 1;
+  }  
+}
