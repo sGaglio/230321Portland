@@ -1,0 +1,180 @@
+const images = [
+  /* Tuesday */
+  {
+    id: '1',
+    url: '181006.jpg',
+    category: 'tue',
+    title: 'Wave',
+  },
+  {
+    id: '2',
+    url: '181007.jpg',
+    category: 'tue',
+    title: 'Aurora',
+  },
+  {
+    id: '3',
+    url: '181008.jpg',
+    category: 'tue',
+    title: 'Wedding 2',
+  },
+  {
+    id: '4',
+    url: '181009.jpg',
+    category: 'tue',
+    title: 'Beach and Sea from drone',
+  },
+  {
+    id: '5',
+    url: '181109.jpg',
+    category: 'tue',
+    title: 'Mountain',
+  },
+  {
+    id: '6',
+    url: '181110.jpg',
+    category: 'tue',
+    title: 'Road from Drone',
+  },
+  {
+    id: '7',
+    url: '181111.jpg',
+    category: 'tue',
+    title: 'Portrait 1',
+  },
+  {
+    id: '8',
+    url: '181112.jpg',
+    category: 'tue',
+    title: 'Wedding 1',
+  },
+  {
+    id: '9',
+    url: '181114.jpg',
+    category: 'tue',
+    title: 'Hills',
+  },
+  {
+    id: '10',
+    url: '181115.jpg',
+    category: 'tue',
+    title: 'Portrait 2',
+  },
+  {
+    id: '11',
+    url: '181116.jpg',
+    category: 'tue',
+    title: 'Lake',
+  },
+  {
+    id: '12',
+    url: '181117.jpg',
+    category: 'tue',
+    title: 'Landscape lake',
+  },
+  /* Wednesday */  
+  {
+    id: '13',
+    url: '181328.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '14',
+    url: '181329.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '15',
+    url: '181330.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '16',
+    url: '181331.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '17',
+    url: '181332.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '18',
+    url: '181333.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  /* Wednesday 2 */
+  {
+    id: '19',
+    url: '181373.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '20',
+    url: '181374.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '21',
+    url: '181375.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '22',
+    url: '181376.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '23',
+    url: '181377.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '24',
+    url: '181378.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '25',
+    url: '181379.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '26',
+    url: '181380.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  /* Wed Dinner */
+  {
+    id: '24',
+    url: '181400.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '25',
+    url: '181401.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+  {
+    id: '26',
+    url: '181402.jpg',
+    category: 'wed',
+    title: 'Mountain Snowy',
+  },
+];
